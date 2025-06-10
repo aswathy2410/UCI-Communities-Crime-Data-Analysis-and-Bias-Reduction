@@ -9,4 +9,6 @@ This assignment aims to analyse the UCI communities and crime dataset to underst
 underlying biases. By unveiling these biases, the aim is to evaluate the ethical viability of the dataset,
 and also to propose strategies to enhance fairness, equity, and transparency in the model.
 
+The bias mitigation is done using AIF360 tool.
+
 Dataset : https://archive.ics.uci.edu/dataset/183/communities+and+crime
